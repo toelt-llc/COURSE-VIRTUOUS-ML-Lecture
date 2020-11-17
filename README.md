@@ -10,7 +10,7 @@ Chief AI Scientist and co-founder, TOELT LLC, Birchlenstr. 25, 8600 Dübendorf, 
 
 **Michela Sperti**
 
-PhD Student
+PhD Student, PolitoBIOMedLab, Department of Mechanical and Aerospace Engineering, Politecnico di Torino, Italy
 
 ## Theory
 
