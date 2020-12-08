@@ -8,9 +8,6 @@ Chief AI Scientist and co-founder, TOELT LLC, Birchlenstr. 25, 8600 Dübendorf, 
 
 Senior Researcher, Dalle Molle Institute for Artificial Intelligence, Via Cantonale 2C, 6928 Manno, Switzerland
 
-**Michela Sperti**
-
-PhD Student, PolitoBIOMedLab, Department of Mechanical and Aerospace Engineering, Politecnico di Torino, Italy
 
 ## Theory
 
