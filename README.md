@@ -27,6 +27,7 @@ All the slides are in google slides. So a browser is all you need to check them 
 
 ## Hands-on Jupyter Notebooks
 
+[Introduction to scikit-learn](http://colab.research.google.com/github/toelt-llc/VIRTUOUS-ML-Lecture/blob/main/code/Classification%20Example%20with%20scikit-learn.ipynb)
 
 [Easy Network with Keras](http://colab.research.google.com/github/toelt-llc/VIRTUOUS-ML-Lecture/blob/main/code/Easy%20NN%20with%20Keras.ipynb)
 
