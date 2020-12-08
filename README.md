@@ -27,6 +27,7 @@ All the slides are in google slides. So a browser is all you need to check them 
 
 ## Hands-on Jupyter Notebooks
 
+
 [Easy Network with Keras](http://colab.research.google.com/github/toelt-llc/VIRTUOUS-ML-Lecture/blob/main/code/Easy%20NN%20with%20Keras.ipynb)
 
 [First CNN with Keras](http://colab.research.google.com/github/toelt-llc/VIRTUOUS-ML-Lecture/blob/main/code/First%20example%20of%20a%20CNN%20with%20the%20MNIST%20dataset.ipynb)
